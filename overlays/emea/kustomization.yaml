@@ -4,6 +4,8 @@ bases:
 - ../../base
 
 resources:
+- route-mng.yaml
+
 nameSuffix: -emea
 images:
 - name: mysql
